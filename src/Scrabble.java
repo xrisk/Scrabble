@@ -1,4 +1,4 @@
-package root;
+
 
 import acm.program.*;
 import acm.util.RandomGenerator;
